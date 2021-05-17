@@ -34,7 +34,7 @@ const apikeyimgbb = 'f803ac10228ceed0df2420dd9d797c8a'
 const cr = '𝐁𝐄𝐋𝐋𝐀\n' 
 // texto do simbolo de verificado
 
-const prefix = '-' 
+const prefix = '/' 
 // prefixo
 
 const blockedmsg = '*😜 Seu número esta bloqueado, ou seja não ouvindo você 😜*'
